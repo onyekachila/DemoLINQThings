@@ -11,6 +11,7 @@ namespace DemoLINQThings
         static void Main(string[] args)
         {
             Console.WriteLine("hello World");
+            Console.WriteLine("This git thing is very wonderful"); 
             Console.ReadKey(); 
 
         }
