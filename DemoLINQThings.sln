@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoLINQThings", "DemoLINQThings\DemoLINQThings.csproj", "{DECDA202-D7F2-4F29-B4A2-4C8BCE2F4D9B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DECDA202-D7F2-4F29-B4A2-4C8BCE2F4D9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DECDA202-D7F2-4F29-B4A2-4C8BCE2F4D9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DECDA202-D7F2-4F29-B4A2-4C8BCE2F4D9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DECDA202-D7F2-4F29-B4A2-4C8BCE2F4D9B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DF31279F-7CB8-423C-B32E-8916C91B6672}
+	EndGlobalSection
+EndGlobal
